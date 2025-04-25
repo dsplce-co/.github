@@ -8,11 +8,11 @@ HILE
 
 # 📦 Featured projects
 
-### [relayr](https://github.com/dsplce-co/relayr)
+### [🏃‍♂️ relayr](https://github.com/dsplce-co/relayr)
 
 Effortless delegated cron jobs for Rust — zero boilerplate, pure async power.
 
-### [dioxus-google-fonts](https://github.com/dsplce-co/dioxus-google-fonts)
+### [🧬 dioxus-google-fonts](https://github.com/dsplce-co/dioxus-google-fonts)
 
 Declarative Google Fonts embedding for Dioxus apps — clean, fast, intuitive.
 
