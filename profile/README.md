@@ -10,7 +10,7 @@ We assign a **dedicated technical consultant** per client so you're wrapped in c
 
 **Interested in more?** Let's talk → E-mail us at [hello@dsplce.co](mailto:hello@dsplce.co) or [schedule a meeting](https://book.morgen.so/dsplce)
 
-> _We're flexible to address your needs._
+Visit our website to check out our work: [dsplce.co](https://dsplce.co)
 
 ---
 
