@@ -14,7 +14,7 @@
 ```
 
 
-### ⚡ Effortless tech · 🛠️ Enterprise-grade tools · 👨🏻‍💻 Embedded developers
+### ⚡ The last mile to production · 🛠️ Enterprise-grade tooling · 🎯 Owned outcomes, not Jira tickets
 
 <br>
 
@@ -29,16 +29,18 @@
 ## 🛠️ **Who we are**
 
 > [!TIP]
-> We're the team you call when you want one level beyond 😉
+> Building the tech consultancy I wished existed.
 
-Struggling with tech complexity? Short on talented hands? We don't just consult — we **embed** ourselves in your workflow. You get a **dedicated technical consultant** who actually gives a damn about your success.
+We gather go-getters who take an idea, figure out the architecture, build it, and ship it — **owning the outcome, not just the Jira ticket.** Technology partner, not a vendor.
+
+Our edge is the hard part: taking AI-built software the **last mile** — from a prototype that demos to something production-grade you can actually run a company on. **The demo was the easy part.**
 
 ```rust
-fn get_results() -> Solution {
-    dsplce::assign_consultant()
-        .understand_your_problem()
-        .build_the_damn_thing()
-        .ship_it()
+fn ship() -> Production {
+    dsplce::partner()
+        .audit()         // find the load-bearing duct tape
+        .harden()        // make it survive real users & real data
+        .keep_shipping() // without breaking what worked last week
 }
 ```
 
@@ -68,7 +70,9 @@ fn get_results() -> Solution {
 
 ## 💎 **OSS portfolio**
 
-*We don't only deliver commercial code*
+> We can't show you most of what we build — client work lives under NDA. So here's what we **can**: open-source tools, shipped and running in production.
+>
+> **If this is what we build in the open, picture what we do for the teams that hire us.**
 
 <table>
 <tr>
@@ -155,6 +159,8 @@ let regex = Regex::new("[a-z]")
 </table>
 
 <div align="center">
+
+*Notice the throughline: mindful error handling, production-grade tooling, infrastructure that just works — the unglamorous 20% that makes software survive real users. That's the obsession we bring to your codebase.*
 
 ### [📦 **See all projects** →](https://github.com/orgs/dsplce-co/repositories)
 
